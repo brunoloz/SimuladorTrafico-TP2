@@ -12,6 +12,11 @@ Metodología: Programación Orientada a Objetos y patrón Modelo-Vista-Controlad
 
 Lenguaje de programación: Java.
 
+## Interfaz visual del proyecto
+
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/4c3dad18-7e5b-4ecf-8003-fe63c6f5d24f" />
+
+
 ## 👥 Autores
 Jose Vicente Baute Fariña.
 
